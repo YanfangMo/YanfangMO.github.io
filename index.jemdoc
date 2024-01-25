@@ -2,8 +2,54 @@
 ==Yanfang Mo
 
 ~~~
-{}{img_left}{photos/photo.jpg}{alt text}{148}{}
-Dr. Yanfang Mo is ... 
+{}{img_left}{photos/xxx.jpg}{alt text}{148}{}
+Dr. Yanfang Mo will be a Research Assistant Professor with [https://ece.hkust.edu.hk/ ECE, HKUST] from March 2024 and is currently a Postdoc with [https://www.cityu.edu.hk/hkids/ HKIDS, CityU].
+
+E-mail: ymoaa@connect.ust.hk
+
+# \[2024 Fall\] Ph.D. position available. Feel free to send me your resume if you have passion in research and want to join my group as a Ph.D. student. 
+
+# \[RA\/Internship\] RA/intership position available anytime. Students who have interest in research internship or gap year research assistant positions are more than welcome to contact me.
+
+~~~
+
+== Professional Experiences
+- ...
+
+# -- Supervisor: [Website Name]
+# -- I'm also fortunate to work with [website Name] during my xxx
+
+# == Education
+# - Ph.D. in Electronic and Computer Engineering
+# -- Advisor: [Website Name]
 
 
+== Research Interest
+My research interests include data-driven modeling and decision-making in smart grids, intelligent transportation, and finance. I have been developing my knowledge in data analytics, statistical learning, online and combinatorial optimization, partial order programming, matrix theory, graph theory, game theory, and control theory, etc. I am interested in building theoretical foundations and conducting data-driven analysis toward smart cities.
+# - xxx
+
+# == News
+# . mm/yyyy: xxxx
+
+
+== Selected Publications
+. *Y.~Mo* and S.~J.~Qin, \"Probabilistic reduced-dimensional vector autoregressive modeling with oblique projections,\" 1st-round review under Automatica, 2024. \[[https://arxiv.org/abs/2401.07206 arXiv]\]
+. *Y.~Mo*, Q.~Lin, M.~Chen, and S.~J.~Qin, \"Real-time peak-demand minimization with energy storage using competitive ratio,\" 1st-round review under Automatica, 2024. \[[https://arxiv.org/pdf/2103.00005.pdf arXiv]\]
+. L. Li, X.~He, *Y.~Mo*, Z. Sun, and S.~J.~Qin, \"Route network planning for urban drone delivery: Network flow theory or graph search algorithms,\" submitted, 2024. \[[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4589264 SSRN]\]
+. *Y.~Mo\**, W.~Chen, K.~You, and L.~Qiu, \"Optimal~$(0,1)$-matrix completion with majorization ordered objectives,\" *Automatica*, vol.~160, no.~111430, 2024. (*Regular Paper*) \[[https://doi.org/10.1016/j.automatica.2023.111430 Link]\]
+. *Y.~Mo*, Q.~Lin, M.~Chen, and S.~J.~Qin, “Optimal peak-minimizing online algorithms for large-load users with energy storage,” in *IEEE International Conference on Computer Communications (INFOCOM)*, 2021. (*Best Poster Award*) \[[https://ieeexplore.ieee.org/abstract/document/9484511 Link]\]
+. *Y.~Mo*\*, W.~Chen, S.~Z. Khong, and L.~Qiu, \"A structure-tensor approach to integer matrix completion in indivisible resource allocation,\" *IEEE Transactions on Automatic Control*, vol.~67, no.~9, pp.~4541--4554, 2022. (*Full Paper*) \[[https://ieeexplore.ieee.org/document/9741557 Link]\]
+. *Y.~Mo*\*, W.~Chen, L.~Qiu, and P.~Varaiya, \"Market implementation of multiple-arrival multiple-deadline differentiated energy services,\" *Automatica*, vol.~116, no.~108933, 2020. \[[https://doi.org/10.1016/j.automatica.2020.108933 Link]\]
+
+
+\n
+
+# == Selected Honors and Awards
+# - xxx
+
+
+
+== Grants
+. CityU Applied Research Grant (ARG~9667249): \"An Online Adaptive Competitive Approach to Reducing Peak Demand with Energy Storage,\" /Co_I/.
+. HK Tech 300 Seed Fund (SF 202303005) and HKSTP Ideation Application (Partner-23-177): \"A digital traffic management platform for low-altitude urban drone delivery,\" /Founding member of the start-up team~--~*Smart Sky Builder*/.
 
