@@ -3,7 +3,10 @@
 
 ~~~
 {}{img_left}{photos/xxx.jpg}{alt text}{148}{}
-Dr. Yanfang Mo will be a Research Assistant Professor with [https://ece.hkust.edu.hk/ ECE, HKUST] from March 2024 and is currently a Postdoc with [https://www.cityu.edu.hk/hkids/ HKIDS, CityU].
+Dr. Yanfang Mo will be a Research Assistant Professor with [https://ece.hkust.edu.hk/ ECE, HKUST] from March 2024 and is currently a Postdoc with [https://www.cityu.edu.hk/hkids/ HKIDS, CityU]. 
+I received a PhD degree in Electronic and Computer Engineering at the Hong Kong University of Science and Technology, supervised by [https://facultyprofiles.hkust.edu.hk/profiles.php?profile=li-qiu-eeqiu Prof. Li Qiu]. 
+I was a postdoc at City University of Hong Kong, working with [https://scholars.ln.edu.hk/en/persons/s-joe-qin Prof. S. Joe Qin], [https://www.cityu.edu.hk/stfprofile/minghua.chen.htm Prof. Minghua Chen], and [https://www.cityu.edu.hk/stfprofile/lishuai.htm Prof. Lishuai Li].
+\n
 
 E-mail: ymoaa@connect.ust.hk
 
@@ -13,8 +16,8 @@ E-mail: ymoaa@connect.ust.hk
 
 ~~~
 
-== Professional Experiences
-- ...
+# == Professional Experiences
+# - ...
 
 # -- Supervisor: [Website Name]
 # -- I'm also fortunate to work with [website Name] during my xxx
@@ -36,7 +39,7 @@ My research interests include data-driven modeling and decision-making in smart 
 . *Y.~Mo* and S.~J.~Qin, \"Probabilistic reduced-dimensional vector autoregressive modeling with oblique projections,\" 1st-round review under Automatica, 2024. \[[https://arxiv.org/abs/2401.07206 arXiv]\]
 . *Y.~Mo*, Q.~Lin, M.~Chen, and S.~J.~Qin, \"Real-time peak-demand minimization with energy storage using competitive ratio,\" 1st-round review under Automatica, 2024. \[[https://arxiv.org/pdf/2103.00005.pdf arXiv]\]
 . L. Li, X.~He, *Y.~Mo*, Z. Sun, and S.~J.~Qin, \"Route network planning for urban drone delivery: Network flow theory or graph search algorithms,\" submitted, 2024. \[[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4589264 SSRN]\]
-. *Y.~Mo\**, W.~Chen, K.~You, and L.~Qiu, \"Optimal~$(0,1)$-matrix completion with majorization ordered objectives,\" *Automatica*, vol.~160, no.~111430, 2024. (*Regular Paper*) \[[https://doi.org/10.1016/j.automatica.2023.111430 Link]\]
+. *Y.~Mo\**, W.~Chen, K.~You, and L.~Qiu, \"Optimal~(0,1)-matrix completion with majorization ordered objectives,\" *Automatica*, vol.~160, no.~111430, 2024. (*Regular Paper*) \[[https://doi.org/10.1016/j.automatica.2023.111430 Link]\]
 . *Y.~Mo*, Q.~Lin, M.~Chen, and S.~J.~Qin, “Optimal peak-minimizing online algorithms for large-load users with energy storage,” in *IEEE International Conference on Computer Communications (INFOCOM)*, 2021. (*Best Poster Award*) \[[https://ieeexplore.ieee.org/abstract/document/9484511 Link]\]
 . *Y.~Mo*\*, W.~Chen, S.~Z. Khong, and L.~Qiu, \"A structure-tensor approach to integer matrix completion in indivisible resource allocation,\" *IEEE Transactions on Automatic Control*, vol.~67, no.~9, pp.~4541--4554, 2022. (*Full Paper*) \[[https://ieeexplore.ieee.org/document/9741557 Link]\]
 . *Y.~Mo*\*, W.~Chen, L.~Qiu, and P.~Varaiya, \"Market implementation of multiple-arrival multiple-deadline differentiated energy services,\" *Automatica*, vol.~116, no.~108933, 2020. \[[https://doi.org/10.1016/j.automatica.2020.108933 Link]\]
