@@ -1,0 +1,48 @@
+# jemdoc: menu{MENU}{research.html}, nofooter  
+== Projects -- Toward Smart Cities
+
+== Data analytics for smart cities 
+Data is overwhelming in our era, catalyzing the growth of data analytics. However, the escalating volumes and complexity of data have introduced substantial challenges in the collection, management, processing, analysis, and interpretation of the massive data. 
+=== Reduced-Dimensional Dynamic Data Analytics:
+An intriguing observation is that the information, particularly the dynamics, inherent in many high-dimensional data sets, can be accommodated by a low-dimensional subspace. For example, numerous sensors may be embedded to monitor an autonomous system or an industrial process, and the dynamics of this system or process remain independent of the the number of sensor. This fact has sparked a hop topic on the extraction of reduced-dimensional dynamics from high-dimensional data. 
+- *Y.~Mo* and S.~J.~Qin, \"Probabilistic reduced-dimensional vector autoregressive modeling with oblique projections,\" 1st-round review under Automatica, 2024. \[[https://arxiv.org/abs/2401.07206 arXiv]\]
+- *Y.~Mo*, J.~Yu, and S.~J.~Qin, \"Probabilistic reduced-dimensional vector autoregressive modeling for dynamics prediction and reconstruction with oblique projections,\" in *62nd IEEE Conference on Decision and Control (CDC)*, 2023. \[[https://ieeexplore.ieee.org/document/10384177 Link]\]
+- J.~Yu, *Y.~Mo*, and S.~J.~Qin, \"Latent dynamic networked system identification with high-dimensional networked data,\" in *62nd IEEE Conference on Decision and Control (CDC)*, 2023. \[[https://ieeexplore.ieee.org/document/10383206 Link]\]
+
+# === Multi-scale Multi-modal data analytics
+# Integrate data from various sources (e.g., sensors, social media, transportation) across different scales (local, regional, global) to gain holistic insights for better urban planning and management.
+
+
+== Decision-making for smart cities
+Decision-making in the context of smart cities primarily involves the strategic allocation of resources. The intricacy of the objectives, the combinatorial nature of decision variables, the real-time requirements, and other complexities of decision-making have posed significant challenges to researchers and engineers.
+=== Partial order programming (POP) with majorization-ordered objective values
+Real-world scenarios often require the simultaneous evaluation of multiple criteria and constraints. Therefore, parital order programming POP is introduced to formulate and solve problems whose objective values may not be comparable. Majorization has emerged as a significant parital order to compare two vectors whose components are all nonnegative real numbers. The usefulness of majorization has been elaborated in the monograph written by Marsahll, Olkin, and Arnold. We have derived several interesting results on majorization-related POP.
+- *Y.~Mo\**, W.~Chen, K.~You, and L.~Qiu, \"Optimal~(0,1)-matrix completion with majorization ordered objectives,\" *Automatica*, vol.~160, no.~111430, 2024. (*Regular Paper*) \[[https://doi.org/10.1016/j.automatica.2023.111430 Link]\]
+- *Y.~Mo*, W.~Chen, K.~You, and L.~Qiu, \"Optimal~(0,1)-matrix completion with majorization ordered objectives, Part II: Applications to structured resource allocation,\" working paper, 2024.
+- *Y.~Mo*, W.~Chen, and L.~Qiu, \"Coordinating flexible loads via optimization in the majorization order,\" in *56th IEEE Conference on Decision and Control (CDC)*, pp. 3495--3500, 2017. \[[https://ieeexplore.ieee.org/abstract/document/8264171 Link]\]
+
+=== Indivisible resource allocation via integer matrix completion
+Indivisible resource allocation motivates the study of integer matrix completion problems with prescribed row/column sums and preassigned zeros. Several results have been derived for particular (0,1)-matrix and (-1,0,1)-matrix completion problems for electrical energy allocation in smart grids.
+- *Y.~Mo*\*, W.~Chen, S.~Z. Khong, and L.~Qiu, \"A structure-tensor approach to integer matrix completion in indivisible resource allocation,\" *IEEE Transactions on Automatic Control*, vol.~67, no.~9, pp.~4541--4554, 2022. (*Full Paper*) \[[https://ieeexplore.ieee.org/document/9741557 Link]\]
+- *Y.~Mo*, W.~Chen, and L.~Qiu, \"Duration-differentiated energy services with peer-to-peer charging,\" in *55th IEEE Conference on Decision and Control (CDC)*, pp. 7514--7519, 2016. \[[https://ieeexplore.ieee.org/document/7799430 Link]\]
+
+=== Online decision-making
+Many resource allocation problems necessitate a real-time implementation where the decisions should be made without future information. The competitive ratios metric can be used to evaluate and guide the online decision-makings, compared to the ideal but unrealisic ones under a clairvoyant setting or in hindsight. We have developed several competitive online algorithms for reducing the peak procurement of a large-load customer from the grid using energy storage.
+- *Y.~Mo*, Q.~Lin, M.~Chen, and S.~J.~Qin, “Optimal peak-minimizing online algorithms for large-load users with energy storage,” in *IEEE International Conference on Computer Communications (INFOCOM)*, 2021. (*Best Poster Award*) \[[https://ieeexplore.ieee.org/abstract/document/9484511 Link]\]
+- *Y.~Mo*, Q.~Lin, M.~Chen, and S.~J.~Qin, “Optimal online algorithms for peak-demand reduction maximization with energy storage,” in *ACM International Conference on Future Energy Systems (ACM e-Energy)*, 2021. \[[https://doi.org/10.1145/3447555.3464857 Link]\]
+
+== Emerging lifestyles for smart cities
+Thriving within smart cities, our lifestyles evolve due to the demand-centered new services and the dynamic low-altitude economy. 
+=== Demand-centered service design
+New techonologies have facilitated the participation of consumers in smart grids and thus the demand side can contribute more to the supply-demand balance in power systems than before. Acoordingly, innovative electricity services should be designed and analyzed to elicit and exploit load flexiblity. 
+- *Y.~Mo*\*, W.~Chen, L.~Qiu, and P.~Varaiya, \"Market implementation of multiple-arrival multiple-deadline differentiated energy services,\" *Automatica*, vol.~116, no.~108933, 2020. \[[https://doi.org/10.1016/j.automatica.2020.108933 Link]\]
+
+=== Low-altitude economy
+Low-altitude economy refers to s spectrum of economic activities occurring within low altitude airspace, including a digital platform for urban drone delivery.
+- X.~He, *Y.~Mo*, J. Huang, L. Li, and S.~J.~Qin, \"A competition-based route network planning method for drone delivery services in cities,\" 1st-round review under Transportation Research: Part C, 2024. \[[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4370169 SSRN]\]
+- L. Li, X.~He, *Y.~Mo*, Z. Sun, and S.~J.~Qin, \"Route network planning for urban drone delivery: Network flow theory or graph search algorithms,\" submitted, 2024. \[[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4589264 SSRN]\]
+
+
+= Grants
+. CityU Applied Research Grant (ARG~9667249): \"An online adaptive competitive approach to reducing peak demand with energy storage,\" /Co_I/.
+. HK Tech 300 Seed Fund (SF 202303005) and HKSTP Ideation Application (Partner-23-177): \"A digital traffic management platform for low-altitude urban drone delivery,\" /Founding member of the start-up team~--~*Smart Sky Builder*/.
