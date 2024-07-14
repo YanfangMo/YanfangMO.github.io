@@ -1,0 +1,2 @@
+msg="ok"
+print(msg)
