@@ -2,7 +2,7 @@
 == Projects -- Toward Smart Cities
 
 == Data analytics for smart cities 
-Data is overwhelming in our era, catalyzing the growth of data analytics. However, the escalating volumes and complexity of data have introduced substantial challenges in the collection, management, processing, analysis, and interpretation of the massive data. 
+Data are overwhelming in our era, catalyzing the growth of data analytics. However, the escalating volumes and complexity of data have introduced substantial challenges in the collection, management, processing, analysis, and interpretation of the massive data. 
 === Reduced-dimensional dynamic data analytics:
 An intriguing observation is that the information, particularly the dynamics, inherent in many high-dimensional data sets, can be accommodated by a low-dimensional subspace. For example, numerous sensors may be embedded to monitor an autonomous system or an industrial process, and the dynamics of this system or process remain independent of the number of sensors. This fact has sparked a hot topic on the extraction of reduced-dimensional dynamics from high-dimensional data. 
 - *Y.~Mo* and S.~J.~Qin, \"Probabilistic reduced-dimensional vector autoregressive modeling with oblique projections,\" 1st-round review under Automatica, 2024. \[[https://arxiv.org/abs/2401.07206 arXiv]\]
