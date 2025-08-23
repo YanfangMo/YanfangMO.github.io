@@ -1,4 +1,9 @@
-# jemdoc: menu{MENU}{services.html}, nofooter   
+# jemdoc: menu{MENU}{services.html}, nofooter 
+
+== Teaching
+- CDS2003 Data Structures and Object-Oriented Programming
+- CCC8015 Generative Artificial Intelligence
+- CDS536 Data Science Project
 
 == Editorship
 - Journal of Field Robotics: Special Issue on Construction Robotics (*Guest Editor*)

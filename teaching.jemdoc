@@ -1,6 +1,6 @@
 # jemdoc: menu{MENU}{teaching.html}, nofooter  
 
-== Mentoring
+# == Mentoring
 - Students at Lingnan University
 -- Zhenzhen Jia (PhD, since Fall 2025; MS from CSU, co-supervised with [https://www.ln.edu.hk/po/people/professor-qin-s-joe Prof. S. Joe Qin])
 -- Longcheng Liu (PhD, since Fall 2025; BS and MS from SDU, co-supervised with [https://faculty.sdu.edu.cn/liushuai1/zh_CN/zhym/778477/list/index.htm Prof. Shuai Liu] and [https://www.ln.edu.hk/po/people/professor-qin-s-joe Prof. S. Joe Qin])
@@ -13,10 +13,6 @@
 -- [https://scholar.google.com/citations?user=RcaxAaIAAAAJ&hl=en Xinting Zhu] (Current position: Postdoc, CityU)
  
 
-== Teaching
-- CDS2003 Data Structures and Object-Oriented Programming
-- CCC8015 Generative Artificial Intelligence
-- CDS536 Data Science Project
 
 # == Previous Courses at HKUST
 # - ELEC2100 at HKUST:~Signals and Systems (Role: Teaching Assistant) 
