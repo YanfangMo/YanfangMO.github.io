@@ -1,21 +1,5 @@
 # jemdoc: menu{MENU}{teaching.html}, nofooter  
 
-== 2025
-- Spring: Data Science Project
-- Spring: Generative Artificial Intelligence
-
-
-== 2024
-- Fall: CDS2003 Data Structures and Object-Oriented Programming
-- Fall: Generative Artificial Intelligence
-
-# == Previous Courses at HKUST
-# - ELEC2100 at HKUST:~Signals and Systems (Role: Teaching Assistant) 
-# - ELEC3200 at HKUST:~System Modeling, Analysis, and Control (Role: Teaching Assistant) 
-# - CSIE Postdoc Associates and Students Seminar series (CSIE PASS) at CityU  (Role: Organizer and Host)
-# - AIAA 5031 Introduction to Computing Using Python, 2023Spring 
-
-
 == Mentoring
 - Students at Lingnan University
 -- Zhenzhen Jia (PhD, since Fall 2025; MS from CSU, co-supervised with [https://www.ln.edu.hk/po/people/professor-qin-s-joe Prof. S. Joe Qin])
@@ -28,3 +12,16 @@
 -- [https://sujunyan.github.io/ Junyan Su] (Current position: PhD candidate, CityU)
 -- [https://scholar.google.com/citations?user=RcaxAaIAAAAJ&hl=en Xinting Zhu] (Current position: Postdoc, CityU)
  
+
+== Teaching
+- CDS2003 Data Structures and Object-Oriented Programming
+- CCC8015 Generative Artificial Intelligence
+- CDS536 Data Science Project
+
+# == Previous Courses at HKUST
+# - ELEC2100 at HKUST:~Signals and Systems (Role: Teaching Assistant) 
+# - ELEC3200 at HKUST:~System Modeling, Analysis, and Control (Role: Teaching Assistant) 
+# - CSIE Postdoc Associates and Students Seminar series (CSIE PASS) at CityU  (Role: Organizer and Host)
+# - AIAA 5031 Introduction to Computing Using Python, 2023Spring 
+
+
