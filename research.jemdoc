@@ -31,6 +31,7 @@ Indivisible resource allocation motivates the study of integer matrix completion
 
 === Online decision-making
 Many resource allocation problems necessitate a real-time implementation where the decisions should be made without future information. The competitive ratios metric can be used to evaluate and guide online decision-making, compared to the ideal but unrealistic ones under a clairvoyant setting or in hindsight. We have developed several competitive online algorithms for reducing the peak procurement of a large-load customer from the grid using energy storage.
+- *Y.~Mo*\*, Q.~Lin, M.~Chen\*, and S.~J.~Qin, \"Real-time peak-demand minimization with energy storage using competitive ratio,\" *Automatica*, vol~184, no~112687, 2026. \[[https://www.sciencedirect.com/science/article/pii/S0005109825005849 Link]\]
 - *Y.~Mo*, Q.~Lin, M.~Chen, and S.~J.~Qin, “Optimal peak-minimizing online algorithms for large-load users with energy storage,” in *IEEE International Conference on Computer Communications (INFOCOM)*, 2021. (*Best Poster Award*) \[[https://ieeexplore.ieee.org/abstract/document/9484511 Link]\]
 - *Y.~Mo*, Q.~Lin, M.~Chen, and S.~J.~Qin, “Optimal online algorithms for peak-demand reduction maximization with energy storage,” in *ACM International Conference on Future Energy Systems (ACM e-Energy)*, 2021. \[[https://doi.org/10.1145/3447555.3464857 Link]\]
 
